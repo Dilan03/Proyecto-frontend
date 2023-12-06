@@ -19,7 +19,7 @@ const Interface1 = ({ onNext }) => {
   return (
     <Container>
       <Row className="justify-content-center mt-5">
-        <Col md={6}>
+        <Col md={15}>
           <div style={{ backgroundColor: '#FFD700', padding: '20px', borderRadius: '10px' }}>
             <h2 className="text-center mb-4">Iniciar Sesión</h2>
             <Form>
